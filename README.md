@@ -15,7 +15,6 @@ CVPR 2023. [链接](https://openaccess.thecvf.com/content/CVPR2023/html/Gillert_
 
 ```bash
 #创建虚拟环境，导入环境文件
-conda create -name ibnd python=3.7
 conda env create -f environment.yml
 
 #下载数据集
