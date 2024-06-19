@@ -25,7 +25,6 @@ python fetch_dataset.py
 python fetch_pretrained_models.py
 ```
 
-Or use GitHub Codespaces: [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=dev&repo=574937325&machine=standardLinux32gb&location=WestEurope)
 
 ***
 
