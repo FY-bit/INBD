@@ -31,7 +31,7 @@ Or use GitHub Codespaces: [![Open in GitHub Codespaces](https://github.com/codes
 
 
 
-## Inference
+## 预测
 
 ```bash
 #对单个原始图像进行处理
@@ -64,7 +64,7 @@ python main.py train INBD \
 
 ***
 
-## Dataset
+## 数据集
 
 我们引入一个新的公开可用的数据集：MiSCS（显微灌木横截面图像）
 
@@ -73,10 +73,6 @@ python main.py train INBD \
 - [EH (Empetrum hermaphroditum)](https://github.com/alexander-g/INBD/releases/download/dataset_v1/EH_v1.zip)
 - [VM (Vaccinium myrtillus)](https://github.com/alexander-g/INBD/releases/download/dataset_v1/VM_v1.zip)
 
-All images were acquired by Alba Anadon-Rosell.
-If you have ecology-related questions, please contact `a.anadon at creaf.uab.cat`
-
-If you want to use this dataset for computer vision research, please cite the publication as below.
 
 
 
