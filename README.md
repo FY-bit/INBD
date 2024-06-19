@@ -76,10 +76,3 @@ python main.py train INBD \
 
 
 
-
-License for the source code: [MPL-2.0](https://github.com/alexander-g/INBD/blob/master/LICENSE)
-
-License for the dataset: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-
-
